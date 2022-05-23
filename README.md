@@ -1,0 +1,1 @@
+This project is meant to put all of the HTML knowledge acquired so far in the Foundations lessons and create a website with a basic recipe. 
